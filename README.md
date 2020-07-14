@@ -1,2 +1,2 @@
 # snake_game
-A simple snake game
+The classic snake game coded with pygame
